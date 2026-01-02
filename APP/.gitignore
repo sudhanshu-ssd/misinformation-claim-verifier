@@ -1,0 +1,13 @@
+.env
+venv/
+GOOGLE_VISION_API.json
+evidence_index.faiss
+second.csv
+third_chunks.csv
+final_chunks.json
+__pycache__/
+*.pyc
+# IMG_PIPELINE.py
+Dockerfile
+docker-compose.yml
+trial.ipynb
